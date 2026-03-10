@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/LicensingSystem.dir/link.d CMakeFiles/LicensingSystem.dir/src/main.cpp.o CMakeFiles/LicensingSystem.dir/src/HardwareID.cpp.o CMakeFiles/LicensingSystem.dir/src/LicenseKey.cpp.o CMakeFiles/LicensingSystem.dir/src/LicenseManager.cpp.o -o LicensingSystem
